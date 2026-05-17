@@ -4,46 +4,20 @@
 
 ## Hi, I'm therain2020
 
-**AI Developer · Full-Stack · 构建会思考的工具**
+**AI Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; 构建会思考的工具**
 
 <br>
 
-<a href="https://github.com/therain2020">
-  <img src="https://skillicons.dev/icons?i=ts,python,vue,java,spring,mysql,docker,git&perline=8" />
-</a>
-
-<br>
-<br>
-
----
-
-<br>
-
-### Featured
-
-<br>
-
-<a href="https://github.com/therain2020/AI_libary">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=AI_libary&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=AI_libary&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=AI_libary&theme=default&hide_border=true" width="380">
-  </picture>
-</a>
-<a href="https://github.com/therain2020/github-profiler">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=github-profiler&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=github-profiler&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=github-profiler&theme=default&hide_border=true" width="380">
-  </picture>
-</a>
-<a href="https://github.com/therain2020/evan-ai-methodology">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=evan-ai-methodology&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=evan-ai-methodology&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therain2020&repo=evan-ai-methodology&theme=default&hide_border=true" width="380">
-  </picture>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AI-10b981?style=flat&logo=openai&logoColor=white">
+</p>
 
 <br>
 
@@ -51,27 +25,44 @@
 
 <br>
 
-### Stats
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=therain2020&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api?username=therain2020&show_icons=true&hide_title=true&hide_rank=true&theme=default&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api?username=therain2020&show_icons=true&hide_title=true&hide_rank=true&theme=default&hide_border=true&include_all_commits=true" height="150">
-</picture>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=therain2020&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=therain2020&layout=compact&theme=default&hide_border=true" media="(prefers-color-scheme: light)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=therain2020&layout=compact&theme=default&hide_border=true" height="150">
-</picture>
+### Featured Projects
 
 <br>
+
+<table>
+<tr>
+<td width="50%">
+  <a href="https://github.com/therain2020/AI_libary"><strong>AI_libary</strong></a>
+  <br>
+  <sup>基于 AI 的读者服务平台 · Spring Boot + Vue 3 + RAG</sup>
+</td>
+<td width="50%">
+  <a href="https://github.com/therain2020/github-profiler"><strong>github-profiler</strong></a>
+  <br>
+  <sup>GitHub 用户画像分析工具</sup>
+</td>
+</tr>
+<tr>
+<td>
+  <a href="https://github.com/therain2020/evan-ai-methodology"><strong>evan-ai-methodology</strong></a>
+  <br>
+  <sup>AI 辅助开发的系统方法论</sup>
+</td>
+<td>
+  <a href="https://github.com/therain2020/evan-ai-setup"><strong>evan-ai-setup</strong></a>
+  <br>
+  <sup>AI 开发环境一键配置工具</sup>
+</td>
+</tr>
+</table>
+
 <br>
 
 ---
 
 <br>
 
-<samp>定义即应用 · 少即是多 · Ship fast, think deep</samp>
+<samp>定义即应用 &nbsp;·&nbsp; 少即是多 &nbsp;·&nbsp; Ship fast, think deep</samp>
 
 <br>
 
