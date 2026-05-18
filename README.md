@@ -4,7 +4,7 @@
 
 ## Hi, I'm therain2020
 
-**AI Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; 构建会思考的工具**
+**AI Developer &middot; Full-Stack &middot; 构建会思考的工具**
 
 <br>
 
@@ -21,6 +21,19 @@
 
 <br>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=therain2020&style=flat-square&color=blue" alt="Profile views">
+</p>
+
+<br>
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=therain2020&show_icons=true&theme=default&hide_title=true">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therain2020&layout=compact&theme=default">
+</p>
+
+<br>
+
 ---
 
 <br>
@@ -32,26 +45,26 @@
 <table>
 <tr>
 <td width="50%">
-  <a href="https://github.com/therain2020/AI_libary"><strong>AI_libary</strong></a>
-  <br>
-  <sup>基于 AI 的读者服务平台 · Spring Boot + Vue 3 + RAG</sup>
-</td>
-<td width="50%">
   <a href="https://github.com/therain2020/github-profiler"><strong>github-profiler</strong></a>
   <br>
-  <sup>GitHub 用户画像分析工具</sup>
+  <sup>GitHub 用户画像分析工具 &middot; 6维度评分 + 交互式报告</sup>
+</td>
+<td width="50%">
+  <a href="https://github.com/therain2020/evan-ai-setup"><strong>evan-ai-setup</strong></a>
+  <br>
+  <sup>Claude Code AI 开发环境一键搭建指南</sup>
 </td>
 </tr>
 <tr>
 <td>
   <a href="https://github.com/therain2020/evan-ai-methodology"><strong>evan-ai-methodology</strong></a>
   <br>
-  <sup>AI 辅助开发的系统方法论</sup>
+  <sup>AI 辅助开发的系统方法论 &middot; 8章深度思考</sup>
 </td>
 <td>
-  <a href="https://github.com/therain2020/evan-ai-setup"><strong>evan-ai-setup</strong></a>
+  <a href="https://github.com/therain2020/promo-planner"><strong>promo-planner</strong></a>
   <br>
-  <sup>AI 开发环境一键配置工具</sup>
+  <sup>开源项目推广方案规划 + 定时提醒执行</sup>
 </td>
 </tr>
 </table>
@@ -62,7 +75,7 @@
 
 <br>
 
-<samp>定义即应用 &nbsp;·&nbsp; 少即是多 &nbsp;·&nbsp; Ship fast, think deep</samp>
+<samp>定义即应用 &middot; 少即是多 &middot; Ship fast, think deep</samp>
 
 <br>
 
