@@ -2,58 +2,55 @@
 
 <br>
 
-## Hi, I'm therain2020
+## Forward Deployed · AI Native
 
-**AI Developer &nbsp;·&nbsp; Full-Stack &nbsp;·&nbsp; 构建会思考的工具**
-
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AI-10b981?style=flat&logo=openai&logoColor=white">
-</p>
+I ship systems, not demos.
 
 <br>
 
 ---
 
-<br>
-
-### Featured Projects
+### What I've proved
 
 <br>
 
 <table>
-<tr>
-<td width="50%">
-  <a href="https://github.com/therain2020/AI_libary"><strong>AI_libary</strong></a>
-  <br>
-  <sup>基于 AI 的读者服务平台 · Spring Boot + Vue 3 + RAG</sup>
-</td>
-<td width="50%">
-  <a href="https://github.com/therain2020/github-profiler"><strong>github-profiler</strong></a>
-  <br>
-  <sup>GitHub 用户画像分析工具</sup>
-</td>
-</tr>
-<tr>
-<td>
-  <a href="https://github.com/therain2020/evan-ai-methodology"><strong>evan-ai-methodology</strong></a>
-  <br>
-  <sup>AI 辅助开发的系统方法论</sup>
-</td>
-<td>
-  <a href="https://github.com/therain2020/evan-ai-setup"><strong>evan-ai-setup</strong></a>
-  <br>
-  <sup>AI 开发环境一键配置工具</sup>
-</td>
-</tr>
+<tr><td>
+
+[**github-profiler**](https://github.com/therain2020/github-profiler)
+
+</td><td>
+
+AI-powered GitHub profile scoring engine. Data pipeline → AI analysis → visual report. Full product.
+
+</td></tr>
+<tr><td>
+
+[**frontend-minimal-refactor**](https://github.com/therain2020/frontend-minimal-refactor)
+
+</td><td>
+
+Vue 3 design-system migration with 6 iterations of real commits and failure logs. FDE battle scars.
+
+</td></tr>
+<tr><td>
+
+[**evan-ai-methodology**](https://github.com/therain2020/evan-ai-methodology)
+
+</td><td>
+
+Mental models for AI-native engineering. Extracted from the front line, not a textbook.
+
+</td></tr>
+<tr><td>
+
+[**knowledge-base-template**](https://github.com/therain2020/knowledge-base-template)
+
+</td><td>
+
+Knowledge infra as a compiler pipeline. Evals + health checks + deterministic guardrails around an LLM core.
+
+</td></tr>
 </table>
 
 <br>
@@ -62,7 +59,7 @@
 
 <br>
 
-<samp>定义即应用 &nbsp;·&nbsp; 少即是多 &nbsp;·&nbsp; Ship fast, think deep</samp>
+<samp>The methodology is in the repos. The evidence is in the commits.</samp>
 
 <br>
 
